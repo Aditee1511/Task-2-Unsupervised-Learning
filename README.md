@@ -1,1 +1,1 @@
-# Task2_predict_the_optimum_no._of_clusters_and_represent_it_visually.
+Data Science Intren Task2-From the given ‘iris’ dataset, predict the optimum no. of clusters and represent it visually.Tool(s) Used - Python (Jupyter Notebook)
